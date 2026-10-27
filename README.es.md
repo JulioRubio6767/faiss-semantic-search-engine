@@ -104,5 +104,5 @@ Distancia: 0.8412 | Tiempo: 2.14 ms
 ## 👤 Autor
 **Julio Andrés Rubio Echeverría**  
 *Analytics & Machine Learning Engineer*  
-* [LinkedIn](https://www.linkedin.com/in/julio-rubio-bi/)
+* [LinkedIn](https://www.linkedin.com/in/juliorubio-data/)
 * [GitHub](https://github.com/JulioRubio6767)
